@@ -1,6 +1,6 @@
 # react-from-scratch
 
-To run this locally, first clone the project into the directory of your choosing with `git clone ` 
+To run this locally, first clone the project into the directory of your choosing with `git clone https://github.com/tateshep/react-from-scratch.git` 
 
 then, install the project with `npm install`
 
