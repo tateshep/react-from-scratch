@@ -1,8 +1,10 @@
 # react-from-scratch
 
-To run this locally, first install the project with `npm install`
+To run this locally, first clone the project into the directory of your choosing with `git clone ` 
 
-then run the local development server with the following
+then, install the project with `npm install`
+
+then,  run the local development server with the following:
 
 ```
 npm run serve
