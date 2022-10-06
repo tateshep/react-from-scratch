@@ -6,7 +6,7 @@ To run this locally, first clone the project into the directory of your choosing
 git clone https://github.com/tateshep/react-from-scratch.git
 ```
 
-then, install the project with `npm install`
+then, install the project with `npm install` or `npm i`
 
 then,  run the local development server with the following:
 
