@@ -14,6 +14,9 @@ then,  run the local development server with the following:
 npm run serve
 ```
 
+![Screen Shot 2022-10-06 at 10 26 19 AM](https://user-images.githubusercontent.com/31529371/194379518-e1b564f0-cee1-47fe-9016-16c1567b459e.png)
+
+
 You should see that the project is running locally in the server logs. Open the browser and visit http://localhost:3000/
 
 
